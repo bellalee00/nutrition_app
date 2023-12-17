@@ -59,7 +59,7 @@ Pengguna yang dapat memakai sistem ini adalah Admin.
     <tr>
       <td width="33%">
         <h5>Splash</h5>
-        <img src="assets/ssapk/Splash.png"><br>
+        <img src="assets/ssapk/splash.png"><br>
       </td>
       <td width="33%">
         <h5>Login Form</h5>
